@@ -1,0 +1,17 @@
+.normal {
+    border-radius: 0.5rem;
+    background-color: #9ADE7B;
+    padding: 0.5rem;
+}
+
+.suspect {
+    border-radius: 0.5rem;
+    background-color: #EEF296;
+    padding: 0.5rem;
+}
+
+.pathological {
+    border-radius: 0.5rem;
+    background-color: #FF8F8F;
+    padding: 0.5rem;
+}
